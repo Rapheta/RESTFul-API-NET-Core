@@ -1,0 +1,360 @@
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\System.Reflection.Metadata.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\SocialMedia.Core.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\SocialMedia.Infrastructure.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\obj\Debug\netcoreapp3.1\SocialMedia.Api.csprojAssemblyReference.cache
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\obj\Debug\netcoreapp3.1\SocialMedia.Api.AssemblyInfoInputs.cache
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\obj\Debug\netcoreapp3.1\SocialMedia.Api.AssemblyInfo.cs
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\obj\Debug\netcoreapp3.1\SocialMedia.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\SocialMedia.Api.exe
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\SocialMedia.Api.deps.json
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\SocialMedia.Api.runtimeconfig.json
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\SocialMedia.Api.runtimeconfig.dev.json
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\SocialMedia.Api.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\SocialMedia.Api.pdb
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\SocialMedia.Core.pdb
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\SocialMedia.Infrastructure.pdb
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\obj\Debug\netcoreapp3.1\SocialMedia.Api.csproj.CopyComplete
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\obj\Debug\netcoreapp3.1\staticwebassets\SocialMedia.Api.StaticWebAssets.Manifest.cache
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\obj\Debug\netcoreapp3.1\staticwebassets\SocialMedia.Api.StaticWebAssets.xml
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\obj\Debug\netcoreapp3.1\SocialMedia.Api.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\obj\Debug\netcoreapp3.1\SocialMedia.Api.pdb
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\obj\Debug\netcoreapp3.1\SocialMedia.Api.genruntimeconfig.cache
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\SocialMedia.Api.xml
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\obj\Debug\netcoreapp3.1\SocialMedia.Api.xml
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\obj\Debug\netcoreapp3.1\SocialMedia.Api.csproj.CoreCompileInputs.cache
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\obj\Debug\netcoreapp3.1\SocialMedia.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\obj\Debug\netcoreapp3.1\SocialMedia.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\web.config
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\web.config
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\SocialMedia.Api.exe
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\SocialMedia.Api.deps.json
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\SocialMedia.Api.runtimeconfig.json
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\SocialMedia.Api.runtimeconfig.dev.json
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\SocialMedia.Api.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\SocialMedia.Api.pdb
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\SocialMedia.Api.xml
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\System.Reflection.Metadata.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\SocialMedia.Core.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\SocialMedia.Infrastructure.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\SocialMedia.Core.pdb
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\SocialMedia.Infrastructure.pdb
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\obj\Debug\netcoreapp3.1\SocialMedia.Api.csprojAssemblyReference.cache
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\obj\Debug\netcoreapp3.1\SocialMedia.Api.AssemblyInfoInputs.cache
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\obj\Debug\netcoreapp3.1\SocialMedia.Api.AssemblyInfo.cs
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\obj\Debug\netcoreapp3.1\SocialMedia.Api.csproj.CoreCompileInputs.cache
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\obj\Debug\netcoreapp3.1\SocialMedia.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\obj\Debug\netcoreapp3.1\SocialMedia.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\obj\Debug\netcoreapp3.1\staticwebassets\SocialMedia.Api.StaticWebAssets.Manifest.cache
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\obj\Debug\netcoreapp3.1\staticwebassets\SocialMedia.Api.StaticWebAssets.xml
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\SocialMedia.Api.styles.css
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\obj\Debug\netcoreapp3.1\SocialMedia.Api.RazorTargetAssemblyInfo.cache
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\obj\Debug\netcoreapp3.1\SocialMedia.Api.csproj.CopyComplete
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\obj\Debug\netcoreapp3.1\SocialMedia.Api.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\obj\Debug\netcoreapp3.1\SocialMedia.Api.xml
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\obj\Debug\netcoreapp3.1\SocialMedia.Api.pdb
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Api\obj\Debug\netcoreapp3.1\SocialMedia.Api.genruntimeconfig.cache
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\web.config
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\SocialMedia.Api.exe
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\SocialMedia.Api.deps.json
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\SocialMedia.Api.runtimeconfig.json
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\SocialMedia.Api.runtimeconfig.dev.json
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\SocialMedia.Api.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\SocialMedia.Api.pdb
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\SocialMedia.Api.xml
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\System.Reflection.Metadata.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\SocialMedia.Core.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\SocialMedia.Infrastructure.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\SocialMedia.Core.pdb
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\bin\Debug\netcoreapp3.1\SocialMedia.Infrastructure.pdb
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\obj\Debug\netcoreapp3.1\SocialMedia.Api.csprojAssemblyReference.cache
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\obj\Debug\netcoreapp3.1\SocialMedia.Api.AssemblyInfoInputs.cache
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\obj\Debug\netcoreapp3.1\SocialMedia.Api.AssemblyInfo.cs
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\obj\Debug\netcoreapp3.1\SocialMedia.Api.csproj.CoreCompileInputs.cache
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\obj\Debug\netcoreapp3.1\SocialMedia.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\obj\Debug\netcoreapp3.1\SocialMedia.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\obj\Debug\netcoreapp3.1\staticwebassets\SocialMedia.Api.StaticWebAssets.Manifest.cache
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\obj\Debug\netcoreapp3.1\staticwebassets\SocialMedia.Api.StaticWebAssets.xml
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\SocialMedia.Api.styles.css
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\obj\Debug\netcoreapp3.1\SocialMedia.Api.RazorTargetAssemblyInfo.cache
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\obj\Debug\netcoreapp3.1\SocialMedia.Api.csproj.CopyComplete
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\obj\Debug\netcoreapp3.1\SocialMedia.Api.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\obj\Debug\netcoreapp3.1\SocialMedia.Api.xml
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\obj\Debug\netcoreapp3.1\SocialMedia.Api.pdb
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Api\obj\Debug\netcoreapp3.1\SocialMedia.Api.genruntimeconfig.cache

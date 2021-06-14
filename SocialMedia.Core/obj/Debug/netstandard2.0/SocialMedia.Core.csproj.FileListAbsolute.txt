@@ -1,0 +1,26 @@
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Core\bin\Debug\netstandard2.0\SocialMedia.Core.deps.json
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Core\bin\Debug\netstandard2.0\SocialMedia.Core.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Core\bin\Debug\netstandard2.0\SocialMedia.Core.pdb
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core.csprojAssemblyReference.cache
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core.AssemblyInfoInputs.cache
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core.AssemblyInfo.cs
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core.csproj.CoreCompileInputs.cache
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core.dll
+C:\Users\Rafa\Desktop\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core.pdb
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Core\bin\Debug\netstandard2.0\SocialMedia.Core.deps.json
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Core\bin\Debug\netstandard2.0\SocialMedia.Core.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Core\bin\Debug\netstandard2.0\SocialMedia.Core.pdb
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core.csprojAssemblyReference.cache
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core.AssemblyInfoInputs.cache
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core.AssemblyInfo.cs
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core.csproj.CoreCompileInputs.cache
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core.dll
+D:\Escritorio\RESTFul API .NET Core 3.1\SocialMedia\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core.pdb
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Core\bin\Debug\netstandard2.0\SocialMedia.Core.deps.json
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Core\bin\Debug\netstandard2.0\SocialMedia.Core.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Core\bin\Debug\netstandard2.0\SocialMedia.Core.pdb
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core.AssemblyInfoInputs.cache
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core.AssemblyInfo.cs
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core.csproj.CoreCompileInputs.cache
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core.dll
+C:\Repositories\RESTFul-API-NET-Core\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core.pdb
