@@ -1,7 +1,7 @@
 # RESTFul API with .NET Core 3.1
 Development and design of a Web API RESTful with .NET Core 3.1
 
-Project Architecture:
+**Project Architecture:**
 <ul>
   <li>Clean Architecture (Onion Architecture)</li> 
   <li>Dependency Injection</li> 
@@ -19,7 +19,7 @@ Project Architecture:
   <li>Independent of external agency</li>
 </ul>
 
-Topics:
+**Topics:**
 <ul>
   <li>ControllerBase</li> 
   <li>ApiController</li> 
@@ -37,13 +37,13 @@ Topics:
   <li>Versioning</li>
 </ul>
 
-Invoking APIs:
+**Invoking APIs:**
 <ul>
   <li>Postman</li> 
   <li>C#</li> 
 </ul>
 
-Required Software:
+**Required Software:**
 <ul>
   <li>.NET Core SDK 3.1+</li> 
   <li>Visual Studio 2019 Community</li> 
@@ -51,7 +51,7 @@ Required Software:
   <li>Postman</li> 
 </ul>
 
-Features:
+**Features:**
 <ul>
   <li>Insert a new Post</li> 
   <li>Update an existing Post</li> 
@@ -61,8 +61,6 @@ Features:
   <li>Filter Posts by date, user or description</li>
   <li>Get all the comments from a Post</li>
 </ul>
-
-
 
 <ul>
   <li>Requests must be paginated showing 10 results per page</li> 
