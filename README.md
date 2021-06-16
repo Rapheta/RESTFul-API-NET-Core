@@ -4,7 +4,6 @@ Development and design of a Web API RESTful with .NET Core 3.1
 **About me**
 
 - Name: Rafael Castellet Ginard
-- Phone number: (+34) 653114707
 - Email: rafael.castelletginard@gmail.com
 - LinkedIn: https://www.linkedin.com/in/rafael-castellet-ginard/
 
